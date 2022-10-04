@@ -1,7 +1,8 @@
 ### Hi there 👋
-
+### We Are SEC A Gang
+### We Are Born For Unity
 <!--
-**HACK-001/HACK-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SEC-A-UNITY/SEC-A-UNITY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=HACK-001&theme=midnight-purple&show_icons=true">
